@@ -4,4 +4,6 @@ stage("prepare"){
 }
 stage("build"){
 }
+  stage("test"){
+}
 }
